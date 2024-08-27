@@ -1,0 +1,18 @@
+.containerCard {
+    padding: 35px;
+}
+
+.containerCard h2 {
+    font-size: 26px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+}
+
+.containerCard_card {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: auto;
+}

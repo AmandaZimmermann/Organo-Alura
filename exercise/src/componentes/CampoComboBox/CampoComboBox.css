@@ -1,0 +1,25 @@
+.campoComboBox {
+    margin: 1.8em 0;
+}
+
+.campoComboBox label {
+    display: block;
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 0.5em;
+}
+
+.campoComboBox select {
+    background-color: #FFF;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    font-size: 19px;
+    padding: 1em;
+    width: 100%;
+}
+
+.campoComboBox select:hover {
+    cursor: pointer;
+}

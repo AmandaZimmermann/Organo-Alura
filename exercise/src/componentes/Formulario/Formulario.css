@@ -1,0 +1,28 @@
+.formulario {
+    background-color: #F6F6F6;
+    border-radius: 1em;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    margin: 4% 10%;
+    padding: 1em 5em;
+}
+
+.formulario h2 {
+    font-size: 24px;
+}
+
+.formulario_botao {
+    background-color: #6278F7;
+    border: none;
+    border-radius: 5px;
+    color:#FFFFFF;
+    display: block;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 0.8em 2em;
+}
+
+.formulario_botao:hover {
+    cursor: pointer;
+    
+}
+
